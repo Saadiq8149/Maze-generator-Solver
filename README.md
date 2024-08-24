@@ -1,5 +1,8 @@
 # Maze Generator and Solver
 
+## Link to Scribbler Notebook
+* [Scribbler Notebook](https://app.scribbler.live/?jsnb=github:Saadiq8149/Maze-generator-Solver/maze-generator-solver.jsnb)
+
 ## Overview
 This project is a visual implementation of a maze generator and solver using the Depth-First Search (DFS) algorithm with backtracking. The maze is generated and solved in real-time using the p5.js graphics library. The application allows users to generate a new maze and solve it interactively.
 
